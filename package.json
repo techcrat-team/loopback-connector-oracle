@@ -1,0 +1,43 @@
+{
+  "name": "loopback-connector-oracle",
+  "version": "4.1.1",
+  "description": "Loopback Oracle Connector",
+  "keywords": [
+    "StrongLoop",
+    "LoopBack",
+    "Oracle",
+    "DataSource",
+    "Connector"
+  ],
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "mocha --UV_THREADPOOL_SIZE=100 --require test/init/init.js test/*.js",
+    "posttest": "npm run lint"
+  },
+  "dependencies": {
+    "async": "2.1.5",
+    "debug": "4.0.1",
+    "loopback-connector": "git+ssh://git@github.com/techcrat-team/loopback-connector.git",
+    "oracledb": "3.0.0",
+    "strong-globalize": "4.1.2"
+  },
+  "devDependencies": {
+    "bluebird": "3.3.3",
+    "eslint": "3.17.0",
+    "eslint-config-loopback": "8.0.0",
+    "loopback-datasource-juggler": "git+ssh://git@github.com/techcrat-team/loopback-datasource-juggler.git",
+    "mocha": "5.2.0",
+    "rc": "1.0.0",
+    "should": "8.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/strongloop/loopback-connector-oracle.git"
+  },
+  "copyright.owner": "IBM Corp.",
+  "license": "MIT"
+}

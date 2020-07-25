@@ -1,0 +1,10 @@
+{
+  "3d26dd09004339e3c04f61799780e5a4": "{0}. Yinelenen tanıtıcısı saptandı.",
+  "56b8408263e115ae231c85f10d988fdc": "\nÜrün: {0}",
+  "6ce5c3a3d305e965ff06e2b3e16e1252": "{{options}} bir {{object}} olmalıdır: {0}",
+  "781db463c682d5eb7259c74773ab1860": "\nStok: {0}",
+  "9926ce70a3a4fb85b8e19605c448c58a": "{{Oracle}} düzenli ifade sözdizimi {{`g`}} işareti kuralına uymuyor",
+  "a0078d732b2dbabf98ed2efcdb55b402": "{{table}} zorunlu bir dizgi bağımsız değişkeni: {0}",
+  "cac93b1aaea2a0f4601f295837eef4a7": "Geçersiz {{isolationLevel}}: {0}"
+}
+
