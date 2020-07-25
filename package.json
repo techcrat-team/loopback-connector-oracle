@@ -27,7 +27,7 @@
   },
   "devDependencies": {
     "bluebird": "3.3.3",
-    "eslint": "3.17.0",
+    "eslint": "7.5.0",
     "eslint-config-loopback": "8.0.0",
     "loopback-datasource-juggler": "git+ssh://git@github.com/techcrat-team/loopback-datasource-juggler.git",
     "mocha": "5.2.0",
